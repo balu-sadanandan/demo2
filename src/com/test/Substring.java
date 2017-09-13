@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	String str=new String();
 	String lsub=new String();
 	String wsub=new String();
-	System.out.println("Enter a string");
+	System.out.println("Enter  string");
 	str=sc.nextLine();
 	//System.out.println(str);
 	boolean f=true;
